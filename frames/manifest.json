@@ -1,8 +1,18 @@
 {
   "pattern-full": 20,
   "photo-full": 20,
+  "soft8-full": 20,
+  "soft6-full": 20,
   "pattern-land": 20,
   "photo-land": 20,
+  "soft8-land": 20,
+  "soft6-land": 20,
+  "pattern-small": 20,
+  "photo-small": 20,
+  "soft8-small": 20,
+  "soft6-small": 20,
   "pattern-port": 20,
-  "photo-port": 20
+  "photo-port": 20,
+  "soft8-port": 20,
+  "soft6-port": 20
 }
